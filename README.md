@@ -1,5 +1,3 @@
-# Глубокие нейронные сети
+# 2025/2026 Глубокие нейронные сети
 
-Deep Neural Networks — DNN-2025.
-
-[Описание курса](COURSE.md) · [Лекции](lecture/) · [Практические работы](practice/) · [Литература](LIBRARY.md) · [Тренировочные задания](testing/)
+## Deep Neural Networks
